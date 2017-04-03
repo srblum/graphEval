@@ -26,10 +26,8 @@ Contains code to enumerate all 20mers in a set of fastq files--in our case, 2,69
 <em>Requires jellyfish and vg</em>
 
 <h2>stats</h2>
-Given the url of a ga4gh server graph, graphEval.py can perform a number of evaluations.  For more information, type:
-```
-graphEval.py -h
-```
+Given the url of a ga4gh server graph, graphEval.py can perform a number of evaluations.  See the documentation in graphEval.py for details.
+
 <h2>viz</h2>
 Generates figures for the publication. 
 
